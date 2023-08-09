@@ -3,11 +3,6 @@
 # @Author  : Claire
 # @file : send_message.py
 
-# -*- coding: utf-8 -*-
-# @Time    : 2022/1/13 11:20
-# @Author  : Claire
-# @file : DingTalk.py
-
 import json
 import urllib.request
 import time
